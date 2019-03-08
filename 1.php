@@ -19,10 +19,10 @@
         }
     }
     
-    echo "simple function: " . fibonacci(20);
+    echo "simple function: " . fibonacci(64);
     echo "\n========================================================\nrecursive function: ";
     $i = 1;
-    while($i < 20) {
+    while($i < 64) {
         
         echo fibonacci_recursive($i)."  ";
         $i++;
