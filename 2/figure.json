@@ -1,0 +1,41 @@
+{
+  "Rectangle": [
+    {
+      "width": 44,
+      "height": 29
+    },
+    {
+      "width": 34,
+      "height": 35
+    },
+    {
+      "width": 34,
+      "height": 49
+    }
+  ],
+  "Circle": [
+    {
+      "radius": 5
+    },
+    {
+      "radius": 37
+    },
+    {
+      "radius": 30
+    },
+    {
+      "radius": 32
+    }
+  ],
+  "Pyramid": [
+    {
+      "side": 11
+    },
+    {
+      "side": 18
+    },
+    {
+      "side": 47
+    }
+  ]
+}
